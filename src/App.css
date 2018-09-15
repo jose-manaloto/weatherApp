@@ -1,0 +1,47 @@
+body {
+    background-color: #ffc966;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Form {
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+    border: solid 2px;
+    padding: 5%;
+    background-color: white;
+    box-shadow: 3px 3px 5px 6px rgb(212, 160, 16);
+    text-align: center;
+}
+
+.Data {
+    float: right;
+    margin-right: 20%;
+    margin-left: 10%;
+    background-color: white;
+}
+
+.inputBox {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.blurb {
+    font-style: italic;
+}
+
+.sponsor {
+    font-size: 15px;
+    text-align: right;
+    font-style: italic;
+}
+
+.temp {
+    font-size: 60px;
+}
